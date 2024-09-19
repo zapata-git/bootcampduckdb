@@ -8,6 +8,8 @@
 ### **IMPORTANCIA DE LAS BASES DE DATOS**
 
 Aprender bases de datos es fundamental, ya que son la base de casi todas las aplicaciones y sistemas modernos, desde redes sociales hasta servicios bancarios. Gestionan y organizan la información de manera eficiente y son clave para el análisis de datos y la toma de decisiones informadas.
+[![Abrir en Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/zapata-git/bootcampduckdb/blob/main/contenido.curso/000.recursos/notebooks/bootcamp_dql_clases_template.ipynb)
+
 ### **DUCKDB**
 
 DuckDB es un motor de base de datos SQL diseñado para el análisis de grandes volúmenes de datos de manera rápida y eficiente, sin la necesidad de configuraciones complejas de servidores.
